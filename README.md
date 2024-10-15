@@ -39,7 +39,7 @@ To set up the application, you need to install the required libraries. Follow th
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Demigod345/Network-Traffic-Analyzer.git
-   cd network-traffic-analyzer
+   cd Network-Traffic-Analyzer
 
 2. **Create a virtual environment** (optional but recommended):
    ```bash
